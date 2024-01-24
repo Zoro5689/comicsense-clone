@@ -24,8 +24,7 @@
     color: aliceblue;
 }
 
-.nav svg {
-    padding-top: 3px;
+
 }
 
 .nav li {
@@ -97,7 +96,7 @@ a:hover {
 
     position: absolute;
     top: 49px;
-
+    z-index: 1000;
     display: flex;
     gap: 20px;
     justify-content: center;
